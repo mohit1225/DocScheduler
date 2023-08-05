@@ -1,9 +1,9 @@
-# HealthBooker🧑‍⚕️
+# DocScheduler🧑‍⚕️
 
 <h3>Description :</h3> 
 This is a webapp where you can book an appointment with a doctor.
 
-👉[Click here](https://healthbooker.onrender.com/) to check out the app.
+👉[Click here](https://DocScheduler.onrender.com/) to check out the app.
 <br/>
 
 ### 📃Features :
@@ -128,5 +128,5 @@ REACT_APP_CLOUDINARY_PRESET=YOUR_OWN_CLOUDINARY_PRESET
 
 ### Connect with me :
 
-<a href="https://twitter.com/avinashdunna" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Avinash905 | LinkedIn" height="35" width="35" /></a>
-<a href="https://twitter.com/avinashdunna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avinashdunna" height="30" width="40" /></a>
+<a href="https://twitter.com/Mohitdunna" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="Mohit905 | LinkedIn" height="35" width="35" /></a>
+<a href="https://twitter.com/Mohitdunna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mohitdunna" height="30" width="40" /></a>
